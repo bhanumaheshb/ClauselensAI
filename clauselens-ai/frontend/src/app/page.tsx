@@ -139,7 +139,7 @@ export default function Home() {
           className="mt-10 flex gap-6"
         >
           <Link
-            href="/signup"
+            href="/login"
             className="bg-[#d4af37] text-black px-8 py-4 rounded-full font-bold hover:scale-105 transition-all duration-300 shadow-lg"
           >
             Start Free
