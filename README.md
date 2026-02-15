@@ -205,6 +205,16 @@ Procurement
 Vendor risk
 Finance
 Compliance
+
+
+🎯 Who Benefits
+
+Legal teams
+Procurement
+Vendor risk
+Finance
+Compliance
+
 ---
 
 ## 📸 Demo Screenshots
