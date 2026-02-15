@@ -205,3 +205,21 @@ Procurement
 Vendor risk
 Finance
 Compliance
+---
+
+## 📸 Demo Screenshots
+
+### Landing Page
+![Landing](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.12 AM.png)
+
+### Dashboard
+![Dashboard](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.22 AM.png)
+
+### Ask Questions
+![QA](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.37 AM.png)
+
+### Risk Detection
+![Risk](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.49 AM.png)
+
+### Results
+![Results](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.56 AM.png)
