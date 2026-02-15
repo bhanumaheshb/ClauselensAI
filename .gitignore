@@ -1,0 +1,19 @@
+# python
+venv/
+backend/venv/
+__pycache__/
+
+# node
+node_modules/
+.next/
+
+# env
+.env
+
+# mac
+.DS_Store
+
+# db / embeddings
+*.db
+chroma/
+

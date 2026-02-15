@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+google-genai
+requests
+python-dotenv
+aiofiles
+anthropic>=0.18.0

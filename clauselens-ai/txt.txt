@@ -1,0 +1,14 @@
+uvicorn main:app --reload --host 127.0.0.1 --port 8000
+
+
+cd backend
+source venv/bin/activate
+uvicorn main:app --reload --host 127.0.0.1 --port 8000
+
+
+ollama run mistral
+
+cd frontend
+npm run dev
+
+cd clauselens-ai
