@@ -209,17 +209,17 @@ Compliance
 
 ## 📸 Demo Screenshots
 
-### Landing Page
-![Landing](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.12 AM.png)
+### 🏠 Landing Page
+![Landing](clauselens-ai/output-images/homepage.png)
 
-### Dashboard
-![Dashboard](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.22 AM.png)
+### 🔐 Login
+![Login](clauselens-ai/output-images/login.png)
 
-### Ask Questions
-![QA](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.37 AM.png)
+### 📝 Signup
+![Signup](clauselens-ai/output-images/signup.png)
 
-### Risk Detection
-![Risk](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.49 AM.png)
+### 📊 Dashboard
+![Dashboard](clauselens-ai/output-images/dashboard.png)
 
-### Results
-![Results](clauselens-ai/Output Images/Screenshot 2026-02-15 at 5.22.56 AM.png)
+### 📈 More Dashboard
+![Dashboard2](clauselens-ai/output-images/dashboard2.png)
